@@ -1,0 +1,6 @@
+applications:
+- name: bootstrapDemo
+  memory: 64M
+  host: bootstrapDemo
+  buildpack: staticfile_buildpack
+  
